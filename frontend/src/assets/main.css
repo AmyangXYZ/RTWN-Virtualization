@@ -1,0 +1,21 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  /* max-width: 100%; */
+  margin: 0 auto;
+  /* padding: 2rem; */
+  font-weight: normal;
+  margin-top: 80px;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
