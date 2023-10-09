@@ -2,10 +2,12 @@
 
 RTWN simulator written in Go + Vue3 + TypeScript
 
+<img src="./screenshot.png"/>
+
 ## Usage
 
 `go run .`
-    
+
 `cd frontend && npm run dev`
 
 ## References
